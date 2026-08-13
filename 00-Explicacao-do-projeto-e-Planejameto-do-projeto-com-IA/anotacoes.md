@@ -17,9 +17,10 @@ A primeira coisa quando a gente se depara com o figma, com um layout desses, é 
 Vou utilizar o chatGPT pra me ajudar a construir o site: 
 https://chatgpt.com/c/6a7dc1c4-93a0-83e9-acc4-b5d195099f45
 
-*Só lembrando: Quando estamos trabalhando com IAs generativas. Podem ser que as respostas sejam diferentes.* Não adianta reclamar: "Ah o meu não ficou igual o da vídeo aula!" É normal isso. E a IA não gera o mesmo resultado pro mesmo prompt.
+*Só lembrando: Quando estamos trabalhando com IAs generativas, podem ser que as respostas sejam diferentes.* Não adianta reclamar: "Ah o meu não ficou igual o da vídeo aula!" É normal isso. E a IA não gera o mesmo resultado pro mesmo prompt.
 Preciso testar e criar meus próprios prompts. É importante saber como usar a IA e criar prompts melhores. Ser um prompt engineering. É saber criar prompts de qualidade. As IAs precisam de prompts. E quanto mais detalhado, melhor.
 Existem ferramentas que melhoram prompts: https://app.aiprm.com/gpts/g-2mqMPjvcZ/meta-prompt-lendario?success=70210
+
 Trello: https://trello.com/b/q9aks6pM/desenvolvimento-de-site-de-e-commerce-syntaxwear-do-devquest-20
 
 Não precisa necessáriamente deixar tudo organizado no trello, mas já que estou fazendo um projeto sozinho, é importante se organizar e se planejar antes de fazer o site.
@@ -27,6 +28,5 @@ Não precisa necessáriamente deixar tudo organizado no trello, mas já que esto
 Então consegui me organizar, me planejar do que tenho que fazer no projeto. Então, essa base que aprendi aqui, serve para qualquer projeto que eu for criar um projeto do zero.
 
 Já é um ótimo primeiro passo pra eu não ficar perdido batendo cabeça sem saber por onde começar.
-
 
 
